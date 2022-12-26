@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/mui-app/static/js/main.e21dea5c.js",
+    "static/media/acer.jpg": "/mui-app/static/media/acer.f81a4468d95ce5e0d808.jpg",
+    "static/media/im.png": "/mui-app/static/media/im.c6b1f4af58b1900b4da6.png",
+    "index.html": "/mui-app/index.html",
+    "main.e21dea5c.js.map": "/mui-app/static/js/main.e21dea5c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e21dea5c.js"
+  ]
+}
